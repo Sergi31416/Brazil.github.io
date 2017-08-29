@@ -778,4 +778,8 @@ visibility:hidden;
  visibility: visible;
 }
 
-
+.More {
+  float: center;
+  font-size:40px;
+  color: white; 
+}
