@@ -810,7 +810,7 @@ visibility:hidden;
     margin: 0;
     position: relative;
     left: 10px;
-    top: 10px;
+    top: 5px;
     font-size: 50px;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -823,5 +823,5 @@ visibility:hidden;
 }
 #return-to-top:hover i {
     color: #fff;
-    top: 5px;
+    top: -7px;
 }
